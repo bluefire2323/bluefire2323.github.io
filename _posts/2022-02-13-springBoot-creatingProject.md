@@ -1,6 +1,8 @@
 ---
-layout: post
-title: intellij community로 SpringBoot 프로젝트 생성법
+title:  intellij community로 SpringBoot 프로젝트 생성법
+tags:
+  - SpringBoot
+  - Tedi
 ---
 
 # intellij community로 SpringBoot 프로젝트 생성법
