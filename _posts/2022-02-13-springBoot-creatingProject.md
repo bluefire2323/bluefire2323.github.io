@@ -47,8 +47,7 @@ dependencies {
 2.Spring Boot 프로젝트 생성
 
 [Spring Initializr](https://start.spring.io/)
-images:
-  -https://www.google.com/url?sa=i&url=https%3A%2F%2Fspring.io%2Fprojects%2Fspring-boot&psig=AOvVaw1YUl1RZEN1cvI3XLEmn0vi&ust=1646015159293000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNigwLvqnvYCFQAAAAAdAAAAABAI
+![ex_screenshot](https://www.google.com/url?sa=i&url=https%3A%2F%2Fspring.io%2Fprojects%2Fspring-boot&psig=AOvVaw1YUl1RZEN1cvI3XLEmn0vi&ust=1646015159293000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNigwLvqnvYCFQAAAAAdAAAAABAI)
 
 이 사이트에 들어가면 Spring Initializr라는 창이 나온다. 이 창에서 몇 가지 옵션을 선택한 후 GENERATE라는 버튼을 누르면 스프링 부트 생성에 필요한 몇 가지 파일들을 zip파일로 묶어서 다운받을 수 있다. 나는 gardle을 사용하므로 gardle project를 선택했고, java를 주로 해 왔으므로 java를 선택했고, 버전은 2.5~6정도면 된다. 프로젝트명은 시험용이니 demo로 하고, java버전은 8을 사용하므로 8로 설정했다.
 
