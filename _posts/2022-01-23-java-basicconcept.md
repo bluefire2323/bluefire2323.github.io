@@ -1,6 +1,8 @@
 ---
-layout: post
-title: 자바 기본 문법
+title:  자바 기본 문법
+tags:
+  - Java
+  - Tedi
 ---
 
 1.기본 출력

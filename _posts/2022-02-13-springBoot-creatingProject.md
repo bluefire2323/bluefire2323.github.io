@@ -5,8 +5,6 @@ tags:
   - Tedi
 ---
 
-# intellij community로 SpringBoot 프로젝트 생성법
-
 1.intellij 프로젝트 생성
 
 새 프로젝트를 생성하는 창에서 gradle을 선택한 후 생성하면 프로젝트가 생성된다. 이 프로젝트가 열리면 가장 먼저 build.gardle이라는 파일이 열린다. 이 파일에
