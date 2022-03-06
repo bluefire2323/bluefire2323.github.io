@@ -43,7 +43,7 @@ defaults:
 # to hide the profile.
   -
     scope:
-      path: ""ㄹ
+      path: ""
     values:
       show_profile: true
   -
