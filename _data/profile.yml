@@ -6,6 +6,10 @@
   href: https://stackoverflow.com
   icon: icons/stackoverflow.svg
 
+- caption: Opgg
+  href: https://www.op.gg/summoners/kr/bluefire23
+  icon: icons/opgglogo.jpg
+
 - caption: Seongnam
   href: https://www.google.com/maps/place/%EA%B2%BD%EA%B8%B0%EB%8F%84+%EC%84%B1%EB%82%A8%EC%8B%9C/@37.4003657,127.0709103,12z/data=!3m1!4b1!4m5!3m4!1s0x357ca7f1701220bf:0x50315666bce397d4!8m2!3d37.4449168!4d127.1388684?hl=ko
   icon: entypo/location-pin.svg
