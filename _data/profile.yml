@@ -1,20 +1,11 @@
-- caption: Friday Theme on GitHub
-  href: https://github.com/sfreytag/friday-theme
+- caption: 최윤형 github
+  href: https://github.com/bluefire2323/bluefire2323.github.io
   icon: entypo/github.svg
 
 - caption: Stack Overflow
   href: https://stackoverflow.com
   icon: icons/stackoverflow.svg
 
-- caption: Facebook
-  href: https://www.facebook.com
-  icon: entypo/facebook.svg
-
-- caption: Twitter
-  href: https://www.twitter.com
-  icon: entypo/twitter.svg
-
-- caption: London
-  href: https://www.google.co.uk/maps/place/London/@51.528308,-0.3817765,10z/data=!3m1!4b1!4m5!3m4!1s0x47d8a00baf21de75:0x52963a5addd52a99!8m2!3d51.5073509!4d-0.1277583
+- caption: Seongnam
+  href: https://www.google.com/maps/place/%EA%B2%BD%EA%B8%B0%EB%8F%84+%EC%84%B1%EB%82%A8%EC%8B%9C/@37.4003657,127.0709103,12z/data=!3m1!4b1!4m5!3m4!1s0x357ca7f1701220bf:0x50315666bce397d4!8m2!3d37.4449168!4d127.1388684?hl=ko
   icon: entypo/location-pin.svg
-
