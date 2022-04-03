@@ -1,4 +1,9 @@
-# 클래스
+---
+title:  JAVA Class
+tags:
+  - Java
+  - Tedi
+---
 
 1.클래스의 개념과 기초 용어
 
