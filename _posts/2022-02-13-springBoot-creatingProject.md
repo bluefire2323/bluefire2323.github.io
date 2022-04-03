@@ -2,7 +2,6 @@
 title:  intellij community로 SpringBoot 프로젝트 생성법
 tags:
   - SpringBoot
-  - Tedi
 ---
 
 1.intellij 프로젝트 생성
