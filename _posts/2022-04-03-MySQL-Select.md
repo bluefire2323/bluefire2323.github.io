@@ -25,7 +25,7 @@ SELECT * FROM [Customers] WHERE Country = "Germany"
 SELECT * FROM [Customers] WHERE Country = "Germany" AND City = "Berlin"
 ```
 하지만 조건이 하나일 필요는 없다. AND를 이용하면 조건이 두 개 이상이어도 된다. 여기서는 Germany에 살고 도시가 Berlin인 모든 데이터를 조회한 것이다.
-![](\image\sql_image.png){: width="120%" height="120%"}
+![](\image\sql_image.png){: width="100%" height="100%"}
 연습용 사이트에 실행하면 이와 같이 조건에 만족하는 자료만 잘 나오는 것을 확인할 수 있다.
 
 ```SQL
